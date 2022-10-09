@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@pushprotocol/restapi": "^0.1.1",
+    "ethers": "^5.7.1",
+    "@openzeppelin/cli": "^2.8.2",
+    "@openzeppelin/contracts":"^4.7.3",
+    "ipfs-http-client":"^58.0.1"
+  },
+  "type":"module"
+}
